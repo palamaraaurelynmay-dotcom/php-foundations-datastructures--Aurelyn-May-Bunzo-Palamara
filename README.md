@@ -1,4 +1,5 @@
 o Project purpose
+My Library Project is to efficiently manage books and user records, making library operations faster and more organized.
 
 o How to run each part
 
